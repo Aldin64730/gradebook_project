@@ -1,0 +1,19 @@
+2026-04-02 14:56:44,908 - INFO - Added student: Maria with ID 4 [cite: 10]
+2026-04-02 14:56:44,910 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 14:56:56,400 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 14:57:24,057 - INFO - Added grade 92.5 for student 1 in CS101 [cite: 10]
+2026-04-02 14:57:24,058 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 14:57:33,928 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 14:57:37,827 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 14:57:40,134 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 14:57:42,110 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 14:58:09,886 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 14:58:15,705 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 15:00:53,992 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 15:01:03,546 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 15:01:17,311 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 16:08:29,247 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 16:08:38,232 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 16:09:09,849 - INFO - Added grade 100.0 for student 1 in CS101 [cite: 10]
+2026-04-02 16:09:09,851 - INFO - Data successfully saved to data/gradebook.json
+2026-04-02 16:09:15,217 - INFO - Data successfully saved to data/gradebook.json

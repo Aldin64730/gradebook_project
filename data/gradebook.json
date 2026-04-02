@@ -1,0 +1,52 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Alice Smith"
+        },
+        {
+            "id": 2,
+            "name": "Bob Jones"
+        },
+        {
+            "id": 3,
+            "name": "Charlie Brown"
+        }
+    ],
+    "courses": [
+        {
+            "code": "CS101",
+            "title": "Introduction to Computer Science"
+        },
+        {
+            "code": "PY201",
+            "title": "Advanced Python Programming"
+        }
+    ],
+    "enrollments": [
+        {
+            "student_id": 1,
+            "course_code": "CS101",
+            "grades": [
+                95.0,
+                88.5,
+                100.0
+            ]
+        },
+        {
+            "student_id": 1,
+            "course_code": "PY201",
+            "grades": [
+                92.0
+            ]
+        },
+        {
+            "student_id": 2,
+            "course_code": "CS101",
+            "grades": [
+                78.0,
+                82.0
+            ]
+        }
+    ]
+}
